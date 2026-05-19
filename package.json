@@ -10,7 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "4.2.2"
+    "nuxt": "4.4.6"
   },
   "packageManager": "pnpm@10.28.2"
 }
