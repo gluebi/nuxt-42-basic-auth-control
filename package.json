@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-40-basic-auth-control",
+  "name": "nuxt-42-basic-auth-control",
   "private": true,
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "4.0.3"
+    "nuxt": "4.2.2"
   },
   "packageManager": "pnpm@10.28.2"
 }
