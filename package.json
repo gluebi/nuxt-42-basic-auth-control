@@ -1,0 +1,16 @@
+{
+  "name": "nuxt-40-basic-auth-control",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "4.0.3"
+  },
+  "packageManager": "pnpm@10.28.2"
+}

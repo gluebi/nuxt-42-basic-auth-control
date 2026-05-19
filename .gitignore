@@ -1,0 +1,9 @@
+node_modules
+.nuxt
+.output
+.data
+.env
+.DS_Store
+.pnpm-store
+.playwright-mcp
+# console-clean-*.log captured at control-run time IS checked in; nothing else
